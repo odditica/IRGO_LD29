@@ -6,4 +6,4 @@ I made this game back in 2014 as an entry the 29th Ludum Dare.
 
 [Game Jolt page](http://gamejolt.com/profile/blokatt/122889)
 
-GameMaker: Studio reguired to run.
+Made entirely in GameMaker: Studio,
