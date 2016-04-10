@@ -10,4 +10,4 @@ I made this game back in 2014 as an entry the 29th Ludum Dare.
 
 Made in GameMaker: Studio.
 
-!(http://ludumdare.com/compo/wp-content/compo2/342546/35237-shot0.png)
+![](http://ludumdare.com/compo/wp-content/compo2/342546/35237-shot0.png)
