@@ -1,4 +1,4 @@
-## I rarely go outside - source code
+## I Rarely Go Outside
 
 I made this game back in 2014 as an entry the 29th Ludum Dare.
 
